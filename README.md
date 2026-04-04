@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="left">Olá! sejam bem-vindos(a) ao meu Github 🥀</h1>
 
-<!--
-**Thamiresvitoria/Thamiresvitoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Me chamo Thamires Vitoria, tenho 21 anos. Sou de Recife, Pernambuco.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim 🤘</h2>
+
+###
+
+<p align="left">Atualmente estou fazendo um tecnólogo em análise e desenvolvimento de sistema, pela unit-PE bolsa total pelo Embarque digital. <br><br>Gosto de aprender novas tecnologias, descobrir novos conhecimentos. Aprender novas linguagens, ferramentas, como criar algoritmo e etc. Atualmente estou estudando para ser uma desenvolvedora fullstack para depois focar na área que possuo interesse :D.<br><br>Sempre gostei dessa área, principalmente na área de desenvolvimento de jogos. Gosto muito de assistir animes, assistir RPGS, escutar meus rocks, assistir pessoas resolvendo enigma que tem criptografia. Antigamente e até hoje gosto de ver a comunidade do Cellbit fazendo ARGs.<br><br>Área de desenvolvimento de jogos é uma área que chama a minha atenção, pois, sempre tive curiosidade em saber como os personagens são criados, como é que o jogo roda tão bem, qual é a estrutura por de trás dela.</p>
+
+###
+
+<h2 align="left">Tecnologia que uso</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+</div>
+
+###
