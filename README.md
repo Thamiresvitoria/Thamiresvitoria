@@ -12,6 +12,8 @@
 
 ###
 
+---
+
 <h2 align="left">Sobre mim 🤘</h2>
 
 ###
@@ -20,7 +22,9 @@
 
 ###
 
-<h2 align="left">Tecnologia que uso</h2>
+---
+
+<h2 align="center">Tecnologia que uso</h2>
 
 ###
 
@@ -40,8 +44,16 @@
 
 ###
 
+---
+
 <h2 align="left">Status</h2>
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Thamiresvitoria%20&theme=dark-smoky&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
+</div>
+
+---
 
 ###
 
