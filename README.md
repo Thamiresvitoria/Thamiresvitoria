@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="left">Sobre mim 🤘</h2>
+<h2 align="center">Sobre mim 🤘</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -46,7 +46,7 @@
 
 ---
 
-<h2 align="left">Status</h2>
+<h2 align="center">Status</h2>
 
 <div align="center">
   
@@ -58,8 +58,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thamiresvitoria /Thamiresvitoria /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thamiresvitoria /Thamiresvitoria /output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/Thamiresvitoria /Thamiresvitoria /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/Thamiresvitoria /Thamiresvitoria /output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thamiresvitoria /Thamiresvitoria /output/pacman-contribution-graph.svg">
 </picture>
 
