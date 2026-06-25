@@ -4,7 +4,8 @@
 
 ###
 
-<h1 align="left">Olá! sejam bem-vindos(a) ao meu Github 🥀</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=30&center=true&vCenter=true&width=1000&lines=Óla,+meu+nome+é+Thamires+Vitoria;Be+Welcome!+:%29)](https://git.io/typing-svg
+)
 
 ###
 
