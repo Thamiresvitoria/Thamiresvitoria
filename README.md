@@ -4,14 +4,19 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=30&center=true&vCenter=true&width=1000&lines=Óla,+meu+nome+é+Thamires+Vitoria;Be+Welcome!+:%29)](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=30&center=true&vCenter=true&width=1000&lines=Óla,+meu+nome+é+Thamires+Vitoria;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg
 )
 
 ###
 
-<p align="left">Me chamo Thamires Vitoria, tenho 21 anos. Sou de Recife, Pernambuco.</p>
+<p align="center">Me chamo Thamires Vitoria, tenho 21 anos. Sou de Recife, Pernambuco.</p>
 
 ###
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thamiresvitoria&show_icons=true&count_private=true&hide_border=true&title_color=AB0000&icon_color=CC0000&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Vitoria github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamiresvitoria&layout=compact&hide_border=true&title_color=AB0000&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 ---
 
