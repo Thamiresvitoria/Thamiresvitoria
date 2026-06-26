@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=100&descAlignY=100&theme=onedark"  />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AB0000&height=120&section=header"/>
 </div>
 
 ###
@@ -18,17 +18,21 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamiresvitoria&layout=compact&hide_border=true&title_color=AB0000&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
----
+
+<br>
+
 
 <h2 align="center">Sobre mim 🤘</h2>
 
 ###
 
+<br>
+
 <p align="left">Atualmente estou fazendo um tecnólogo em análise e desenvolvimento de sistema, pela unit-PE bolsa total pelo Embarque digital. <br><br>Gosto de aprender novas tecnologias, descobrir novos conhecimentos. Aprender novas linguagens, ferramentas, como criar algoritmo e etc. Atualmente estou estudando para ser uma desenvolvedora fullstack para depois focar na área que possuo interesse :D.<br><br>Sempre gostei dessa área, principalmente na área de desenvolvimento de jogos. Gosto muito de assistir animes, assistir RPGS, escutar meus rocks, assistir pessoas resolvendo enigma que tem criptografia. Antigamente e até hoje gosto de ver a comunidade do Cellbit fazendo ARGs.<br><br>Área de desenvolvimento de jogos é uma área que chama a minha atenção, pois, sempre tive curiosidade em saber como os personagens são criados, como é que o jogo roda tão bem, qual é a estrutura por de trás dela.</p>
 
 ###
 
----
+
 
 <h2 align="center">Tecnologia que uso</h2>
 
