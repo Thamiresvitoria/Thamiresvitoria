@@ -56,20 +56,11 @@
 
 ---
 
-<h2 align="center">Status</h2>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Thamiresvitoria%20&theme=dark-smoky&hide_border=falso&locale=pt_BR&short_numbers=falso)](https://git.io/streak-stats)
-</div>
-
----
-
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thamiresvitoria /Thamiresvitoria /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thamiresvitoria /Thamiresvitoria /output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thamiresvitoria /Thamiresvitoria /output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thamiresvitoria /Thamiresvitoria /output/pacman-contribution-graph.svg">
 </picture>
 
