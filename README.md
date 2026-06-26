@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">Me chamo Thamires Vitoria, tenho 21 anos. Sou de Recife, Pernambuco.</p>
+<p align="center">Tenho 21 anos. Sou de Recife, Pernambuco. Sou estudante de analise e desenvolvimento de sistema.</p>
 
 ###
 
