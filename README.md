@@ -10,13 +10,6 @@
 <p align="center">Tenho 21 anos. Sou de Recife, Pernambuco. Sou estudante de analise e desenvolvimento de sistema.</p>
 
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thamiresvitoria&show_icons=true&count_private=true&hide_border=true&title_color=AB0000&icon_color=CC0000&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Vitoria github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamiresvitoria&layout=compact&hide_border=true&title_color=AB0000&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-
 <h2 align="center" >Sobre mim ☠ </h2>
 
 
